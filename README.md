@@ -28,3 +28,7 @@ We participated in the organized hackathon, along other students to see who can 
 ![setup_1](./images/setup_image_1.jpg)
 ![setup_2](./images/setup_image_2.jpg)
 ![setup_3](./images/setup_image_3.png)
+
+## 🎥 Video showcasing the setup
+
+[![video_showcase](./images/setup_image_1.jpg)](https://youtu.be/PQt3r07lQ-o)
