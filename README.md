@@ -20,7 +20,7 @@ We participated in the organized hackathon, along other students to see who can 
 ⚙️ DC motors - 2\
 ⚙️ Zip ties - 4\
 ⚙️ Wheels - 2 (paced in the back, it's RWD)\
-⚙️ Wires - lots of them :)
+⚙️ Wires - lots of them :)\
 ⚙️ White led - 1
 
 ## 🖼️ Pictures of the setup
